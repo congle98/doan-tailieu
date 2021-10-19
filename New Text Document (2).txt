@@ -1,0 +1,7 @@
+giảm chương, khảo sát phân tích, thiết kế cơ sở dữ liệu
+1. Tổng quan 
+2. Thiết kế backend
+3. Thiết kế frontend
+
+
+tiến độ, nội dung, thời gian hoàn thành, kết quả
