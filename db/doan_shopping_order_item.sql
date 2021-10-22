@@ -1,0 +1,11 @@
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (1, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 2, 120000.00, 1, 2);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (2, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 2, 120000.00, 2, 2);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (3, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 2, 120000.00, 3, 2);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (4, 'https://cf.shopee.vn/file/e667b032c2d676e25f00d92c4cb92094', 1, 150000.00, 4, 3);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (5, 'https://gacsach.com/sites/gacsach.com/files/giong-to_1.gif', 1, 80000.00, 5, 4);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (6, 'https://salt.tikicdn.com/cache/400x400/media/catalog/product/t/d/tddv-t4.jpg', 1, 30000.00, 6, 30);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (7, 'https://salt.tikicdn.com/cache/400x400/media/catalog/product/t/d/tddv-t4.jpg', 1, 30000.00, 7, 30);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (8, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 1, 120000.00, 9, 2);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (9, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 1, 120000.00, 10, 2);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (10, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 1, 120000.00, 11, 2);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (11, 'https://cf.shopee.vn/file/e667b032c2d676e25f00d92c4cb92094', 1, 150000.00, 11, 3);

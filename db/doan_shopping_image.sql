@@ -61,7 +61,7 @@ INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (60, 'https://
 INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (61, 'https://images-na.ssl-images-amazon.com/images/I/81iUxqt5VdL.jpg', 21);
 INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (62, 'https://cdn.statically.io/img/www.loyalbooks.com/image/detail/Tempest-William-Shakespeare.jpg?w=400&h=640', 21);
 INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (63, 'https://img.wattpad.com/cover/182956759-256-k203914.jpg', 21);
-INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (64, 'https://lh3.googleusercontent.com/proxy/SlgRuDyDaK71wQzeGyfLdDE0zLgZOsm-7WGQtzCnU-sD5ttzneEMYPKttzcrZIKxF4uesJ2XGDJm7nQBmD4E4RMwP223fQ', 22);
+INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (64, 'https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/9/7/9782290338889.jpg', 22);
 INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (65, 'https://salt.tikicdn.com/ts/product/8b/a0/20/4a6658f2a1d815dae4a662e28ddd4db0.jpg', 22);
 INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (66, 'https://www.dtv-ebook.com/images/files_2/2019/othello-william-shakespeare.jpg', 22);
 INSERT INTO `doan-shopping`.image (id, image_url, book_id) VALUES (67, 'https://m.media-amazon.com/images/I/41JUtUFBpBL.jpg', 23);
