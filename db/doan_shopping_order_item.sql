@@ -9,3 +9,5 @@ INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, ord
 INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (9, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 1, 120000.00, 10, 2);
 INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (10, 'https://cf.shopee.vn/file/ee54be4b70d1ed269dd30ce5d89a23db', 1, 120000.00, 11, 2);
 INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (11, 'https://cf.shopee.vn/file/e667b032c2d676e25f00d92c4cb92094', 1, 150000.00, 11, 3);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (12, 'https://salt.tikicdn.com/cache/w1200/media/catalog/product/l/a/lao-dong-va-bien-ca.gif', 1, 300000.00, 12, 14);
+INSERT INTO `doan-shopping`.order_item (id, image_url, quantity, unit_price, order_id, book_id) VALUES (13, 'https://cdn0.fahasa.com/media/catalog/product/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_2349.jpg', 1, 210000.00, 12, 13);
