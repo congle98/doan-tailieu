@@ -1,0 +1,40 @@
+.my-navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #e7e7e7;
+    color: #8a9599;
+    font-size: 13px;
+}
+.my-link-list {
+    display: flex;
+    justify-content: space-around;
+}
+.my-link-list a {
+    color: #8a9599;
+    text-decoration: none;
+}
+.my-link {
+    padding: 5px 10px;
+}
+.my-link:hover{
+    background-color: #fafafa;
+
+}
+
+.btn:hover {
+    color: #fff
+}
+
+.input-text:focus {
+    box-shadow: 0px 0px 0px;
+    outline: 0px
+}
+
+.my-search-button {
+    border: none;
+}
+.btn:focus {
+    box-shadow: 0px 0px 0px;
+    outline: 0px
+}

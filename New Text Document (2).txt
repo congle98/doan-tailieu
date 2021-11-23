@@ -5,4 +5,14 @@ giảm chương, khảo sát phân tích, thiết kế cơ sở dữ liệu
 
 
 tiến độ, nội dung, thời gian hoàn thành, kết quả
-xây dựng hệ thống quản lý bán sách trực tuyến, thiết kế, xây dựng ứng dụng website bán sách trực tuyến, xây dựng phần mềm website bán sách trực tuyến,  thiết kế trang web kinh doanh sách online, thiết kế website bán sách trực tuyến chuyện nghiệp, thiết kế trang web thương mại điển tử bán sách trực tuyến
+xây dựng hệ thống quản lý bán sách trực tuyến, thiết kế, xây dựng ứng dụng website bán sách trực 
+tuyến, xây dựng phần mềm website bán sách trực tuyến,  thiết kế trang web kinh doanh sách online, thiết kế website bán sách trực tuyến chuyện nghiệp, thiết kế trang web thương mại điển tử bán sách trực tuyến
+
+
+sơ lược về website là gì, cách thức, công cụ
+thiết kế ntn,
+làm thế nào để có được 1 web site
+. ngôn ngữ, 
+chương 2. các ngôn gnuwx, công cụ sử dụng
+
+chương 3. phân tích các yêu cầu của hệ thống
