@@ -6,4 +6,4 @@ INSERT INTO `doan-shopping`.author (id, introduce, name, active) VALUES (5, 'Vic
 INSERT INTO `doan-shopping`.author (id, introduce, name, active) VALUES (6, 'William Shakespeare là một nhà văn và nhà viết kịch Anh, được coi là nhà văn vĩ đại nhất của Anh và là nhà viết kịch đi trước thời đại. Ông cũng được vinh danh là nhà thơ tiêu biểu của nước Anh và là "Thi sĩ của dòng sông Avon".', 'William Shakespeare', true);
 INSERT INTO `doan-shopping`.author (id, introduce, name, active) VALUES (7, 'Văn học dân gian hay văn học truyền miệng là văn học được nói hoặc hát trái ngược với văn học được viết lại, mặc dù nhiều văn học truyền miệng đã được ghi lại bằng chữ viết.', 'Văn học dân gian', true);
 INSERT INTO `doan-shopping`.author (id, introduce, name, active) VALUES (8, 'Lê Linh là một kiến trúc sư, họa sĩ truyện tranh Việt Nam, tác giả của bộ truyện tranh nổi tiếng Thần đồng đất Việt.', 'Lê Linh', true);
-INSERT INTO `doan-shopping`.author (id, introduce, name, active) VALUES (9, 'huhu', 'Nguyễn Nhật Ánh', false);
+INSERT INTO `doan-shopping`.author (id, introduce, name, active) VALUES (9, 'huhu', 'Nguyễn Nhật Ánh', true);
